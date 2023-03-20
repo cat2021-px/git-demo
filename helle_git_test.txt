@@ -12,4 +12,8 @@ hello guys!
 hello guys!
 hello guys!
 
+<<<<<<< HEAD
 hot-fix test
+=======
+hot-fix first changed
+>>>>>>> hot-fix
